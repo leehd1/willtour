@@ -255,3 +255,14 @@ select{
 	float: right;
 	color: #fd5f37;
 }
+/* reserve.css */
+.thcolor tr>th{
+	background: #ffc266;
+	width: 10%;
+}
+.inblock{
+	display: inline-block;
+}
+.thwidth th{
+	width: 10%;
+}
