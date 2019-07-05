@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -61,7 +61,7 @@
 	
 <%-- 상품정보.끝 --%>
 
-<%-- 약관 동의 --%>
+<%-- 약관 동의.시작 --%>
 	<div class="container mt-3">
   <!-- Nav tabs -->
   <ul class="nav nav-tabs">
@@ -148,6 +148,15 @@
     	</tr>
     </table>
 	</div>
+	<%-- 약관 동의.끝 --%>
+	
+	<%-- 인원 --%>
+	
+	
+	
+	<%-- 인원 --%>
+	
+	
 	<%-- 예약자 정보.시작 --%>
 	
 	<div class="textsize">예약자 정보</div>
@@ -196,8 +205,10 @@
 </div>
 	
 	<%-- 예약자 정보.끝 --%>
+	
+	
 </div>
-	<%--약관 동의.끝 --%>
+	
 	
 	<%--footer.start --%>
 	<jsp:include page="../inc/footer.jsp"></jsp:include>
